@@ -13,17 +13,17 @@
 <body>
 
     <div class="index">
-        <img src="/Images/Element_Pyro.png" alt="Pyro">
-        <img src="/Images/Element_Hydro.png" alt="Hydro">
-        <img src="/Images/Element_Anemo.png" alt="Anemo">
-        <img src="/Images/Element_Electro.png" alt="Electro">
-        <img src="/Images/Element_Cryo.png" alt="Cyro">
-        <img src="/Images/Element_Geo.png" alt="Geo">
+        <img onclick="display('Pyro')" class = "clickable" src="/Images/Element_Pyro.png" alt="Pyro">
+        <img class = "clickable" src="/Images/Element_Hydro.png" alt="Hydro">
+        <img class = "clickable" src="/Images/Element_Anemo.png" alt="Anemo">
+        <img class = "clickable" src="/Images/Element_Electro.png" alt="Electro">
+        <img class = "clickable" src="/Images/Element_Cryo.png" alt="Cyro">
+        <img class = "clickable" src="/Images/Element_Geo.png" alt="Geo">
     </div>
     
     <div id="particles-js">
     </div>
-    <div class="flexdiv">
+    <div class="flexdiv" id='Pyro'>
         <div class="linebar">
             <div class="imgtest"></div>
             <div class="imgtest"></div>
@@ -38,7 +38,7 @@
 
         <div class="charadiv">
             <!-- <img style = "display: inline-block; position: relative; top: -250px; height: 96.7vh; right: -50%; filter: brightness(90%);" src="/Images/Pyro/Full/Hu-Tao.png" alt="Hu-Tao"> -->
-            <h1 class="charaname">Hu Tao</h1>
+            <h1 class="charaname" id="name">Hu Tao</h1>
             <h2 class="charatitle">Fragrance in
                 <font color='#eeccbb'>Thaw</font>
             </h2>

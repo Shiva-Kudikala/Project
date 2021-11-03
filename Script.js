@@ -9,7 +9,7 @@ $(function() {
                 }
             },
             "color": {
-                "value": "#ffffff"
+                "value": "#a98888"
             },
             "shape": {
                 "type": "circle",
@@ -55,8 +55,8 @@ $(function() {
             },
             "move": {
                 "enable": true,
-                "speed": 0.5,
-                "direction": "none",
+                "speed": 1,
+                "direction": "top",
                 "random": false,
                 "straight": false,
                 "out_mode": "out",
@@ -118,3 +118,18 @@ $(function() {
 });
 
 var x = 'b'
+
+function display(str)
+{
+    document.getElementById(str).style.display = 'flex';
+    // document.getElementById('particles-js').height = '100%';
+    document.body.style.overflowY = 'scroll';
+    window.scrollBy({
+        top: window.innerHeight,
+        left: 0,
+        behavior: 'smooth'
+    });
+    document.getElementById('name').style.transition = '1s';
+    document.getElementById('name').style.opacity = '1';
+}
+
