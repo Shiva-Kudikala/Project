@@ -1,0 +1,12 @@
+<svg viewBox="-115 30 500 300" version="1.1">
+    <defs>
+        <!-- Start at (10,40) end at (490,40) use control point (250 ,85) -->
+        <path id="curvetext" d="M 29,15 Q -180,220 115,400" />
+    </defs>
+    <use x="0" y="0" xlink:href="#curvetext" fill="none" stroke="gray" stroke-width="50"/>
+    <text font-size="12" fill="white">
+        <textPath xlink:href="#curvetext">
+            <a xlink:href="http://example.com">Menu 1</a> Menu 2 Menu 3 Menu 4 Menu 5 Menu 6 Menu 7 Menu 8 Menu 9
+        </textPath>
+    </text>
+</svg>
