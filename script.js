@@ -116,3 +116,5 @@ $(function() {
     };
     requestAnimationFrame(update);
 });
+
+var x = 'b'
