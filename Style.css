@@ -3,21 +3,80 @@
     padding: 0;
 }
 
-.index{
+.index {
+    background-image: url('/Images/K6mUA5zvhauHWwD8chgwNg-1200-80.jpg');
     display: flex;
     align-items: center;
     justify-content: center;
     width: 100vw;
     height: 100vh;
-    
 }
 
 img {
     margin: 30px;
 }
 
-body{
-    background-image: url('/Images/K6mUA5zvhauHWwD8chgwNg-1200-80.jpg');
+body {
+    /* background-image: url('/Images/K6mUA5zvhauHWwD8chgwNg-1200-80.jpg'); */
     background-repeat: no-repeat;
     background-size: cover;
+    overflow-x: hidden;
+}
+
+.imgtest {
+    background-image: url('/Images/pyro/Character_Hu_Tao_Thumb.png');
+    background-size: cover;
+    border-radius: 50px;
+    height: 6vh;
+    width: 6vh;
+    border: 4px solid #333333;
+    background-color: #ba5500;
+    margin: 5px;
+}
+
+.linebar {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgba(210, 210, 210, 0.5);
+    width: 5vw;
+    height: max-content;
+    height: inherit;
+}
+
+.charadiv {
+    width: 60vw;
+    height: 50vh;
+}
+
+.flexdiv {
+    width: 100vw;
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #aa0000;
+    ;
+}
+
+.charaname {
+    font-family: 'Inter';
+    font-size: 5em;
+    color: #eecc99;
+    font-weight: 400;
+    margin: 15px;
+}
+
+.charatitle {
+    font-family: 'Inter', 'Helvetica', 'Roboto', 'Arial', sans-serif;
+    font-size: 3em;
+    color: #fafafa;
+    font-weight: 400;
+    margin: 15px;
+}
+
+.charphoto {
+    height: 50vh;
+    width: 30vw;
 }
