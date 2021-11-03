@@ -6,6 +6,7 @@
 .index {
     background-image: url('/Images/K6mUA5zvhauHWwD8chgwNg-1200-80.jpg');
     display: flex;
+    background-size: cover;
     align-items: center;
     justify-content: center;
     background-size: cover;
