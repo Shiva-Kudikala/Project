@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.index{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+    
+}
+
+img {
+    margin: 30px;
+}
+
+body{
+    background-image: url('/Images/K6mUA5zvhauHWwD8chgwNg-1200-80.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
