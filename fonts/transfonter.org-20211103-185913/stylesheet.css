@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Default_SC';
+    src: url('Default_SC-85W.eot');
+    src: url('Default_SC-85W.eot?#iefix') format('embedded-opentype'),
+        url('Default_SC-85W.woff2') format('woff2'),
+        url('Default_SC-85W.woff') format('woff'),
+        url('Default_SC-85W.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

@@ -20,6 +20,8 @@ img {
 
 body {
     /* background-image: url('/Images/K6mUA5zvhauHWwD8chgwNg-1200-80.jpg'); */
+    font-family: 'default_sc';
+    font-weight: normal;
     background-repeat: no-repeat;
     background-size: cover;
     overflow-x: hidden;
@@ -46,7 +48,7 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: space-around;
-    background-color: rgba(170, 54, 54, 0.5);
+    background-color: rgba(117, 38, 38, 0.5);
     width: 6.5vw;
     height: max-content;
     height: inherit;
@@ -59,6 +61,7 @@ body {
 }
 
 .flexdiv {
+    
     width: 100vw;
     height: 100vh;
     display: none;
@@ -72,19 +75,20 @@ body {
 }
 
 .charaname {
-    font-family: 'Inter';
-    font-size: 5em;
+    /* font-family: 'Inter'; */
+
+    font-size: 4em;
     color: #eecc99;
-    font-weight: 400;
+    font-weight: 100;
     margin: 15px;
     opacity: 0;
 }
 
 .charatitle {
-    font-family: 'Inter', 'Helvetica', 'Roboto', 'Arial', sans-serif;
+    /* font-family: 'Inter', 'Helvetica', 'Roboto', 'Arial', sans-serif; */
     font-size: 3em;
     color: #fafafa;
-    font-weight: 400;
+    font-weight: 100;
     margin: 15px;
 }
 
@@ -110,7 +114,7 @@ canvas{
     /* background-position: 50% 50%; */
     background-image: url('');
     z-index: -1;
-    background-color: #aa0000;
+    background-color: #fa0000;
 }
 
 .clickable{
