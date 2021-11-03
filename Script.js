@@ -2,7 +2,7 @@ $(function() {
     particlesJS("particles-js", {
         "particles": {
             "number": {
-                "value": 80,
+                "value": 110,
                 "density": {
                     "enable": true,
                     "value_area": 800
@@ -30,7 +30,7 @@ $(function() {
                 "value": 0.7,
                 "random": false,
                 "anim": {
-                    "enable": false,
+                    "enable": true,
                     "speed": 1,
                     "opacity_min": 0.1,
                     "sync": false
@@ -50,12 +50,12 @@ $(function() {
                 "enable": false,
                 "distance": 150,
                 "color": "#ffffff",
-                "opacity": 0.4,
+                "opacity": 0.1,
                 "width": 1
             },
             "move": {
                 "enable": true,
-                "speed": 6,
+                "speed": 0.5,
                 "direction": "none",
                 "random": false,
                 "straight": false,
@@ -72,11 +72,11 @@ $(function() {
             "detect_on": "canvas",
             "events": {
                 "onhover": {
-                    "enable": true,
+                    "enable": false,
                     "mode": "repulse"
                 },
                 "onclick": {
-                    "enable": true,
+                    "enable": false,
                     "mode": "push"
                 },
                 "resize": true
