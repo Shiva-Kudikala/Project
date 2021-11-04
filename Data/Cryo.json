@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Aloy", 
+        "element": "Cryo",
+        "weapon": "Bow",
+        "description": "",
+        "title": "",
+        "ascension": "Cryo DMG Bonus",
+        "rarity": "5-Star",
+        "constellation": "Nora Fortis"
+    },
+    {
+        "name": "Chongyun", 
+        "element": "Cryo",
+        "weapon": "Claymore",
+        "description": "",
+        "title": "",
+        "ascension": "ATK",
+        "rarity": "4-Star",
+        "constellation": "Nubis Caesor"
+    },
+    {
+        "name": "Diona", 
+        "element": "Cryo",
+        "weapon": "Bow",
+        "description": "",
+        "title": "",
+        "ascension": "Cryo DMG Bonus",
+        "rarity": "4-Star",
+        "constellation": "Feles"
+    },
+    {
+        "name": "Eula", 
+        "element": "Cryo",
+        "weapon": "Claymore",
+        "description": "",
+        "title": "",
+        "ascension": "CRIT DMG",
+        "rarity": "5-Star",
+        "constellation": "Aphros Delos"
+    },
+    {
+        "name": "Ganyu", 
+        "element": "Cryo",
+        "weapon": "Bow",
+        "description": "",
+        "title": "",
+        "ascension": "CRIT DMG",
+        "rarity": "5-Star",
+        "constellation": "Sinae Unicornis"
+    },
+    {
+        "name": "Kaeya", 
+        "element": "Cryo",
+        "weapon": "Sword",
+        "description": "",
+        "title": "",
+        "ascension": "Energy Recharge",
+        "rarity": "4-Star",
+        "constellation": "Pavo Ocellus"
+    },
+    {
+        "name": "Kamisato Ayaka", 
+        "element": "Cryo",
+        "weapon": "Sword",
+        "description": "",
+        "title": "",
+        "ascension": "CRIT DMG",
+        "rarity": "5-Star",
+        "constellation": "Grus Nivis"
+    },
+    {
+        "name": "Qiqi", 
+        "element": "Cryo",
+        "weapon": "Sword",
+        "description": "",
+        "title": "",
+        "ascension": "Healing Bonus",
+        "rarity": "5-Star",
+        "constellation": "Pristina Nola"
+    },
+    {
+        "name": "Rosaria", 
+        "element": "Cryo",
+        "weapon": "Polearm",
+        "description": "",
+        "title": "",
+        "ascension": "ATK",
+        "rarity": "4-Star",
+        "constellation": "Spinea Corona"
+    }  
+]

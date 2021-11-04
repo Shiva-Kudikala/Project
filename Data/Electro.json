@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Beidou", 
+        "element": "Electro",
+        "weapon": "Claymore",
+        "description": "",
+        "title": "",
+        "ascension": "Electro DMG Bonus",
+        "rarity": "4-Star",
+        "constellation": "Victor Mare"
+    },
+    {
+        "name": "Fischl", 
+        "element": "Electro",
+        "weapon": "Bow",
+        "description": "",
+        "title": "",
+        "ascension": "ATK",
+        "rarity": "4-Star",
+        "constellation": "Corvus"
+    },
+    {
+        "name": "Kujou Sara", 
+        "element": "Electro",
+        "weapon": "Bow",
+        "description": "",
+        "title": "",
+        "ascension": "ATK",
+        "rarity": "4-Star",
+        "constellation": "Flabellum"
+    },
+    {
+        "name": "Lisa", 
+        "element": "Electro",
+        "weapon": "Catalyst",
+        "description": "",
+        "title": "",
+        "ascension": "Elemental Mastery",
+        "rarity": "4-Star",
+        "constellation": "Tempus Fugit"
+    },
+    {
+        "name": "Raiden Shogun", 
+        "element": "Electro",
+        "weapon": "Polearm",
+        "description": "",
+        "title": "",
+        "ascension": "Energy Recharge",
+        "rarity": "5-Star",
+        "constellation": "Imperatrix Umbrosa"
+    },
+    {
+        "name": "Razor", 
+        "element": "Electro",
+        "weapon": "Claymore",
+        "description": "",
+        "title": "",
+        "ascension": "Physical DMG Bonus",
+        "rarity": "4-Star",
+        "constellation": "Lupus Minor"
+    },
+    {
+        "name": "Keqing", 
+        "element": "Electro",
+        "weapon": "Sword",
+        "description": "",
+        "title": "",
+        "ascension": "CRIT DMG",
+        "rarity": "5-Star",
+        "constellation": "Trulla Cementarii"
+    }
+]

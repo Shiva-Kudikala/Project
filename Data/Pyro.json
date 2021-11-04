@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Amber", 
+        "element": "Pyro",
+        "weapon": "Bow",
+        "description": "",
+        "title": "",
+        "ascension": "ATK",
+        "rarity": "4-Star",
+        "constellation": "lepus"
+    },
+    {
+        "name": "Bennett", 
+        "element": "Pyro",
+        "weapon": "Sword",
+        "description": "",
+        "title": "",
+        "ascension": "Energy Recharge",
+        "rarity": "4-Star",
+        "constellation": "Rota Calamitas"
+    },
+    {
+        "name": "Diluc", 
+        "element": "Pyro",
+        "weapon": "Claymore",
+        "description": "",
+        "title": "",
+        "ascension": "CRIT Rate",
+        "rarity": "5-Star",
+        "constellation": "Noctua"
+    },
+    {
+        "name": "Hu Tao", 
+        "element": "Pyro",
+        "weapon": "Polearm",
+        "description": "",
+        "title": "",
+        "ascension": "CRIT DMG",
+        "rarity": "5-Star",
+        "constellation": "Papilio Charontis"
+    },
+    {
+        "name": "Klee", 
+        "element": "Pyro",
+        "weapon": "Catalyst",
+        "description": "",
+        "title": "",
+        "ascension": "Pyro DMG Bonus",
+        "rarity": "5-Star",
+        "constellation": "Trifolium"
+    },
+    {
+        "name": "Xinyan", 
+        "element": "Pyro",
+        "weapon": "Claymore",
+        "description": "",
+        "title": "",
+        "ascension": "ATK",
+        "rarity": "4-Star",
+        "constellation": "Fila Ignium"
+    },
+    {
+        "name": "Thoma", 
+        "element": "Pyro",
+        "weapon": "Polearm",
+        "description": "",
+        "title": "",
+        "ascension": "ATK",
+        "rarity": "4-Star",
+        "constellation": "Rubeum Scutum"
+    },
+    {
+        "name": "Xiangling", 
+        "element": "Pyro",
+        "weapon": "Polearm",
+        "description": "",
+        "title": "",
+        "ascension": "Elemental Mastery",
+        "rarity": "4-Star",
+        "constellation": "Trulla"
+    },
+    {
+        "name": "Yanfei", 
+        "element": "Pyro",
+        "weapon": "Catalyst",
+        "description": "",
+        "title": "",
+        "ascension": "Pyro DMG Bonus",
+        "rarity": "4-Star",
+        "constellation": "Bestia Iustitia"
+    },
+    {
+        "name": "Yoimiya", 
+        "element": "Pyro",
+        "weapon": "Bow",
+        "description": "",
+        "title": "",
+        "ascension": "CRIT Rate",
+        "rarity": "5-Star",
+        "constellation": "Carassius Auratus"
+    }   
+]

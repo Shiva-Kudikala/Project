@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Barbara", 
+        "element": "Hydro",
+        "weapon": "Catalyst",
+        "description": "",
+        "title": "",
+        "ascension": "HP",
+        "rarity": "4-Star",
+        "constellation": "Crater"
+    },
+    {
+        "name": "Mona", 
+        "element": "Hydro",
+        "weapon": "Catalyst",
+        "description": "",
+        "title": "",
+        "ascension": "Energy Recharge",
+        "rarity": "5-Star",
+        "constellation": "Astrolabos"
+    },
+    {
+        "name": "Sangonomiya Kokomi", 
+        "element": "Hydro",
+        "weapon": "Catalyst",
+        "description": "",
+        "title": "",
+        "ascension": "Hydro DMG Bonus",
+        "rarity": "5-Star",
+        "constellation": "Dracaena Somnolenta"
+    },
+    {
+        "name": "Tartaglia", 
+        "element": "Hydro",
+        "weapon": "Bow",
+        "description": "",
+        "title": "",
+        "ascension": "Hydro DMG Bonus",
+        "rarity": "5-Star",
+        "constellation": "Monoceros Caeli"
+    },
+    {
+        "name": "Xingqiu", 
+        "element": "Hydro",
+        "weapon": "Sword",
+        "description": "",
+        "title": "",
+        "ascension": "ATK",
+        "rarity": "4-Star",
+        "constellation": "Fabulae Textile"
+    }  
+]
