@@ -34,8 +34,8 @@ body {
     background-image: url('/Images/pyro/Character_Hu_Tao_Thumb.png');
     background-size: cover;
     border-radius: 50%;
-    height: 10vh;
-    width: 10vh;
+    height: 70px;
+    width: 70px;
     border: 4px solid #333333;
     background-color: #ba5500;
     margin: 5px;
@@ -46,11 +46,13 @@ body {
     margin-left: -1vw;
     flex-direction: column;
     align-items: center;
-    justify-content: space-around;
+    justify-content:flex-start;
     background-color: rgba(117, 38, 38, 0.5);
     width: 6.5vw;
-    height: max-content;
-    height: inherit;
+    /* min-height: min-content; */
+    height: 100vh;
+    overflow-y: scroll;
+    overflow-x: hidden;
 }
 
 .charadiv {
@@ -95,7 +97,7 @@ canvas {
     position: absolute;
     display: block;
     /* z-index: 1; */
-    vertical-align: bottom;
+    /* vertical-align: bottom; */
 }
 
 #particles-js {

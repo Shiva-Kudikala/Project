@@ -141,8 +141,20 @@ function display(str)
     {
         div.style.backgroundImage = 'linear-gradient(rgb(0,50,120), rgb(0,70,180), rgb(0,100,200), rgb(0,70,180), rgb(0,50,120))';
     }
-    else if(str == '')
+    else if(str == 'Anemo')
     {
-        
+        div.style.backgroundImage = 'linear-gradient(rgb(0,160,160), rgb(40,190,190), rgb(60,220,220), rgb(40,190,190), rgb(0,160,160))';
+    }
+    else if(str == 'Electro')
+    {
+        div.style.backgroundImage = 'linear-gradient(rgb(0,160,160), rgb(40,190,190), rgb(60,220,220), rgb(40,190,190), rgb(0,160,160))';
+    }
+    else if(str == 'Cryo')
+    {
+        div.style.backgroundImage = 'linear-gradient(rgb(0,160,160), rgb(40,190,190), rgb(60,220,220), rgb(40,190,190), rgb(0,160,160))';
+    }
+    else if(str == 'Geo')
+    {
+        div.style.backgroundImage = 'linear-gradient(rgb(0,160,160), rgb(40,190,190), rgb(60,220,220), rgb(40,190,190), rgb(0,160,160))';
     }
 }
