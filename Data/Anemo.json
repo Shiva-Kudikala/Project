@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Jean", 
+        "element": "Anemo",
+        "weapon": "Sword",
+        "description": "",
+        "title": "",
+        "ascension": "Healing Bonus",
+        "rarity": "5-Star",
+        "constellation": "Leo Minor"
+    },
+    {
+        "name": "Kaedehara Kazuha", 
+        "element": "Anemo",
+        "weapon": "Sword",
+        "description": "",
+        "title": "",
+        "ascension": "Elemental Mastery",
+        "rarity": "5-Star",
+        "constellation": "Acer Palmatum"
+    },
+    {
+        "name": "Sayu", 
+        "element": "Anemo",
+        "weapon": "Claymore",
+        "description": "",
+        "title": "",
+        "ascension": "Elemental Mastery",
+        "rarity": "4-Star",
+        "constellation": "Nyctereutes Minor"
+    },
+    {
+        "name": "Sucrose", 
+        "element": "Anemo",
+        "weapon": "Catalyst",
+        "description": "",
+        "title": "",
+        "ascension": "Anemo DMG Bonus",
+        "rarity": "4-Star",
+        "constellation": "Ampulla"
+    },
+    {
+        "name": "Venti", 
+        "element": "Anemo",
+        "weapon": "Bow",
+        "description": "",
+        "title": "",
+        "ascension": "Energy Recharge",
+        "rarity": "5-Star",
+        "constellation": "Carmen Dei"
+    },
+    {
+        "name": "Xiao", 
+        "element": "Anemo",
+        "weapon": "Polearm",
+        "description": "",
+        "title": "",
+        "ascension": "CRIT Rate",
+        "rarity": "5-Star",
+        "constellation": "Alatus Nemeseos"
+    }   
+]

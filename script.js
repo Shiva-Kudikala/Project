@@ -121,7 +121,7 @@ var x = 'b'
 
 function display(str)
 {
-    document.getElementById(str).style.display = 'flex';
+    document.getElementById('bgdiv').style.display = 'flex';
     // document.getElementById('particles-js').height = '100%';
     document.body.style.overflowY = 'scroll';
     window.scrollBy({
@@ -131,5 +131,15 @@ function display(str)
     });
     document.getElementById('name').style.transition = '1s';
     document.getElementById('name').style.opacity = '1';
-}
 
+    let div = document.getElementById('bgdiv');
+    if(str == 'Pyro')
+    {
+        div.style.backgroundImage = 'linear-gradient(#3a0000, #5a0000, #700000, #5a0000, #3a0000)';
+    }
+    else if(str == 'Hydro')
+    {
+        div.style.backgroundImage = 'linear-gradient(#3055aa, #5075c8, #70a5ff, #5075c8, #3055aa)';
+    }
+    
+}
