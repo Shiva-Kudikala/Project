@@ -1,52 +1,51 @@
-[
-    {
-        "name": "Barbara", 
+[{
+        "name": "Barbara",
         "element": "Hydro",
         "weapon": "Catalyst",
         "description": "",
         "title": "Shining Idol",
         "ascension": "HP",
-        "rarity": "4-Star",
+        "rarity": "4",
         "constellation": "Crater"
     },
     {
-        "name": "Mona", 
+        "name": "Mona",
         "element": "Hydro",
         "weapon": "Catalyst",
         "description": "",
         "title": "Astral Reflection",
         "ascension": "Energy Recharge",
-        "rarity": "5-Star",
+        "rarity": "5",
         "constellation": "Astrolabos"
     },
     {
-        "name": "Sangonomiya Kokomi", 
+        "name": "Sangonomiya Kokomi",
         "element": "Hydro",
         "weapon": "Catalyst",
         "description": "",
         "title": "Pearl of Wisdom",
         "ascension": "Hydro DMG Bonus",
-        "rarity": "5-Star",
+        "rarity": "5",
         "constellation": "Dracaena Somnolenta"
     },
     {
-        "name": "Tartaglia", 
+        "name": "Tartaglia",
         "element": "Hydro",
         "weapon": "Bow",
         "description": "",
         "title": "Childe",
         "ascension": "Hydro DMG Bonus",
-        "rarity": "5-Star",
+        "rarity": "5",
         "constellation": "Monoceros Caeli"
     },
     {
-        "name": "Xingqiu", 
+        "name": "Xingqiu",
         "element": "Hydro",
         "weapon": "Sword",
         "description": "",
         "title": "Juvenile Galant",
         "ascension": "ATK",
-        "rarity": "4-Star",
+        "rarity": "4",
         "constellation": "Fabulae Textile"
-    }  
+    }
 ]

@@ -1,72 +1,71 @@
-[
-    {
-        "name": "Beidou", 
+[{
+        "name": "Beidou",
         "element": "Electro",
         "weapon": "Claymore",
         "description": "",
         "title": "Uncrowned Lord of the Ocean",
         "ascension": "Electro DMG Bonus",
-        "rarity": "4-Star",
+        "rarity": "4",
         "constellation": "Victor Mare"
     },
     {
-        "name": "Fischl", 
+        "name": "Fischl",
         "element": "Electro",
         "weapon": "Bow",
         "description": "",
         "title": "Prinzessin der Verurteilung",
         "ascension": "ATK",
-        "rarity": "4-Star",
+        "rarity": "4",
         "constellation": "Corvus"
     },
     {
-        "name": "Kujou Sara", 
+        "name": "Kujou Sara",
         "element": "Electro",
         "weapon": "Bow",
         "description": "",
         "title": "Crowfeather Kaburaya",
         "ascension": "ATK",
-        "rarity": "4-Star",
+        "rarity": "4",
         "constellation": "Flabellum"
     },
     {
-        "name": "Lisa", 
+        "name": "Lisa",
         "element": "Electro",
         "weapon": "Catalyst",
         "description": "",
         "title": "Witch of Purple Rose",
         "ascension": "Elemental Mastery",
-        "rarity": "4-Star",
+        "rarity": "4",
         "constellation": "Tempus Fugit"
     },
     {
-        "name": "Raiden Shogun", 
+        "name": "Raiden Shogun",
         "element": "Electro",
         "weapon": "Polearm",
         "description": "",
         "title": "Plane of Euthymia",
         "ascension": "Energy Recharge",
-        "rarity": "5-Star",
+        "rarity": "5",
         "constellation": "Imperatrix Umbrosa"
     },
     {
-        "name": "Razor", 
+        "name": "Razor",
         "element": "Electro",
         "weapon": "Claymore",
         "description": "",
         "title": "Wolf Boy",
         "ascension": "Physical DMG Bonus",
-        "rarity": "4-Star",
+        "rarity": "4",
         "constellation": "Lupus Minor"
     },
     {
-        "name": "Keqing", 
+        "name": "Keqing",
         "element": "Electro",
         "weapon": "Sword",
         "description": "",
         "title": "Driving Thunder",
         "ascension": "CRIT DMG",
-        "rarity": "5-Star",
+        "rarity": "5",
         "constellation": "Trulla Cementarii"
     }
 ]

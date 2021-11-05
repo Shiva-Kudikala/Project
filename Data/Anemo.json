@@ -1,62 +1,61 @@
-[
-    {
-        "name": "Jean", 
+[{
+        "name": "Jean",
         "element": "Anemo",
         "weapon": "Sword",
         "description": "",
         "title": "Dandelion Knight",
         "ascension": "Healing Bonus",
-        "rarity": "5-Star",
+        "rarity": "5",
         "constellation": "Leo Minor"
     },
     {
-        "name": "Kaedehara Kazuha", 
+        "name": "Kaedehara Kazuha",
         "element": "Anemo",
         "weapon": "Sword",
         "description": "",
         "title": "Scarlet Leaves Pursue Wild Winds",
         "ascension": "Elemental Mastery",
-        "rarity": "5-Star",
+        "rarity": "5",
         "constellation": "Acer Palmatum"
     },
     {
-        "name": "Sayu", 
+        "name": "Sayu",
         "element": "Anemo",
         "weapon": "Claymore",
         "description": "",
         "title": "Mujina Ninja",
         "ascension": "Elemental Mastery",
-        "rarity": "4-Star",
+        "rarity": "4",
         "constellation": "Nyctereutes Minor"
     },
     {
-        "name": "Sucrose", 
+        "name": "Sucrose",
         "element": "Anemo",
         "weapon": "Catalyst",
         "description": "",
         "title": "Harmless Sweety",
         "ascension": "Anemo DMG Bonus",
-        "rarity": "4-Star",
+        "rarity": "4",
         "constellation": "Ampulla"
     },
     {
-        "name": "Venti", 
+        "name": "Venti",
         "element": "Anemo",
         "weapon": "Bow",
         "description": "",
         "title": "Windborne Bard",
         "ascension": "Energy Recharge",
-        "rarity": "5-Star",
+        "rarity": "5",
         "constellation": "Carmen Dei"
     },
     {
-        "name": "Xiao", 
+        "name": "Xiao",
         "element": "Anemo",
         "weapon": "Polearm",
         "description": "",
         "title": "Vigilant Yaksha",
         "ascension": "CRIT Rate",
-        "rarity": "5-Star",
+        "rarity": "5",
         "constellation": "Alatus Nemeseos"
-    }   
+    }
 ]

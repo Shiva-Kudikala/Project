@@ -1,102 +1,101 @@
-[
-    {
-        "name": "Amber", 
+[{
+        "name": "Amber",
         "element": "Pyro",
         "weapon": "Bow",
         "description": "",
         "title": "Gliding Champion",
         "ascension": "ATK",
-        "rarity": "4-Star",
+        "rarity": "4",
         "constellation": "Lepus"
     },
     {
-        "name": "Bennett", 
+        "name": "Bennett",
         "element": "Pyro",
         "weapon": "Sword",
         "description": "",
         "title": "Trial by Fire",
         "ascension": "Energy Recharge",
-        "rarity": "4-Star",
+        "rarity": "4",
         "constellation": "Rota Calamitas"
     },
     {
-        "name": "Diluc", 
+        "name": "Diluc",
         "element": "Pyro",
         "weapon": "Claymore",
         "description": "",
         "title": "The Dark Side of Dawn",
         "ascension": "CRIT Rate",
-        "rarity": "5-Star",
+        "rarity": "5",
         "constellation": "Noctua"
     },
     {
-        "name": "Hu Tao", 
+        "name": "Hu Tao",
         "element": "Pyro",
         "weapon": "Polearm",
         "description": "",
         "title": "Fragrance in Thaw",
         "ascension": "CRIT DMG",
-        "rarity": "5-Star",
+        "rarity": "5",
         "constellation": "Papilio Charontis"
     },
     {
-        "name": "Klee", 
+        "name": "Klee",
         "element": "Pyro",
         "weapon": "Catalyst",
         "description": "",
         "title": "Fleeing Sun Light",
         "ascension": "Pyro DMG Bonus",
-        "rarity": "5-Star",
+        "rarity": "5",
         "constellation": "Trifolium"
     },
     {
-        "name": "Xinyan", 
+        "name": "Xinyan",
         "element": "Pyro",
         "weapon": "Claymore",
         "description": "",
         "title": "Blazing Raff",
         "ascension": "ATK",
-        "rarity": "4-Star",
+        "rarity": "4",
         "constellation": "Fila Ignium"
     },
     {
-        "name": "Thoma", 
+        "name": "Thoma",
         "element": "Pyro",
         "weapon": "Polearm",
         "description": "",
         "title": "Protector from Afar",
         "ascension": "ATK",
-        "rarity": "4-Star",
+        "rarity": "4",
         "constellation": "Rubeum Scutum"
     },
     {
-        "name": "Xiangling", 
+        "name": "Xiangling",
         "element": "Pyro",
         "weapon": "Polearm",
         "description": "",
         "title": "Exquisite Delicacy",
         "ascension": "Elemental Mastery",
-        "rarity": "4-Star",
+        "rarity": "4",
         "constellation": "Trulla"
     },
     {
-        "name": "Yanfei", 
+        "name": "Yanfei",
         "element": "Pyro",
         "weapon": "Catalyst",
         "description": "",
         "title": "Wise Innocence",
         "ascension": "Pyro DMG Bonus",
-        "rarity": "4-Star",
+        "rarity": "4",
         "constellation": "Bestia Iustitia"
     },
     {
-        "name": "Yoimiya", 
+        "name": "Yoimiya",
         "element": "Pyro",
         "weapon": "Bow",
         "description": "",
         "title": "Frolicking Flames",
         "ascension": "CRIT Rate",
-        "rarity": "5-Star",
+        "rarity": "5",
         "constellation": "Carassius Auratus"
-    }   
+    }
 ]

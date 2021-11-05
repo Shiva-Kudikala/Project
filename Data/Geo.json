@@ -1,42 +1,41 @@
-[
-    {
-        "name": "Albedo", 
+[{
+        "name": "Albedo",
         "element": "Geo",
         "weapon": "Sword",
         "description": "",
         "title": "Kriedeprinz",
         "ascension": "Geo DMG Bonus",
-        "rarity": "5-Star",
+        "rarity": "5",
         "constellation": "Princeps Cretaceus"
     },
     {
-        "name": "Zhongli", 
+        "name": "Zhongli",
         "element": "Geo",
         "weapon": "Polearm",
         "description": "",
         "title": "Vago Mundo",
         "ascension": "Geo DMG Bonus",
-        "rarity": "5-Star",
+        "rarity": "5",
         "constellation": "Lapis Dei"
     },
     {
-        "name": "Ningguang", 
+        "name": "Ningguang",
         "element": "Geo",
         "weapon": "Catalyst",
         "description": "",
         "title": "Eclipsing Star",
         "ascension": "Geo DMG Bonus",
-        "rarity": "4-Star",
+        "rarity": "4",
         "constellation": "Opus Aequilibrium"
     },
     {
-        "name": "Noelle", 
+        "name": "Noelle",
         "element": "Geo",
         "weapon": "Claymore",
         "description": "",
         "title": "Chivalaric Blossom",
         "ascension": "DEF",
-        "rarity": "4-Star",
+        "rarity": "4",
         "constellation": "Parma Cordis"
     }
 ]
