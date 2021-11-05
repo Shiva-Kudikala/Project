@@ -66,7 +66,7 @@ body {
     height: 100vh;
     display: grid;
     grid-template-columns: 40vw 40vw;
-    grid-template-rows: 50vh 30vh 20vh;
+    grid-template-rows: 37vh 30vh 20vh;
 }
 
 .flexdiv {
@@ -169,8 +169,13 @@ canvas {
 }
 
 .imagediv {
+
     width: 40vw;
     height: 100vh;
     background-size: 100%;
     background-repeat: no-repeat;
+}
+
+#stars{
+    padding-left: 23vh;
 }
