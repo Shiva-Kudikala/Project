@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/fonts/transfonter.org-20211103-185913/stylesheet.css">
     <link rel="stylesheet" href="/Style.css">
-    <link rel="stylesheet" href="/Characters.css">
+    
 
     <title>Document</title>
 </head>
@@ -19,14 +19,21 @@
         <img onclick="display('Hydro')" class = "clickable" src="/Images/Element_Hydro.png" alt="Hydro">
         <img onclick="display('Anemo')" class = "clickable" src="/Images/Element_Anemo.png" alt="Anemo">
         <img onclick="display('Electro')" class = "clickable" src="/Images/Element_Electro.png" alt="Electro">
-        <img onclick="display('Cyro')" class = "clickable" src="/Images/Element_Cryo.png" alt="Cyro">
+        <img onclick="display('Cryo')" class = "clickable" src="/Images/Element_Cryo.png" alt="Cyro">
         <img onclick="display('Geo')" class = "clickable" src="/Images/Element_Geo.png" alt="Geo">
+        
+        <div class="downele">
+            <div class="artifacts">Artifacts</div>
+            <div class="weapons">Weapons</div>
+        </div>
+
     </div>
+
     
     <div id="particles-js"></div>
-
+    
     <div class="flexdiv" id='bgdiv'>
-        <div class="linebar">
+        <div class="linebar" id="lbar">
             <div class="hutao" ></div>
             <div class="diluc"></div>
             <div class="amber"></div>
@@ -37,24 +44,50 @@
             <div class="xinyan"></div>
             <div class="yanfei"></div>
             <div class="yoimiya"></div>
-
+            
             <!-- <div class="imgtest"></div>
-            <div class="imgtest"></div> -->
+                <div class="imgtest"></div> -->
         </div>
 
-        <div class="charadiv">
-            <!-- <img style = "display: inline-block; position: relative; top: -250px; height: 96.7vh; right: -50%; filter: brightness(90%);" src="/Images/Pyro/Full/Hu-Tao.png" alt="Hu-Tao"> -->
-            <h1 class="charaname" id="name">Hu Tao</h1>
-            <h2 class="charatitle">Fragrance in
-                <font color='#eeccbb'>Thaw</font>
-            </h2>
+            
+            <div class="charadiv">
+                <!-- <img style = "display: inline-block; position: relative; top: -250px; height: 96.7vh; right: -50%; filter: brightness(90%);" src="/Images/Pyro/Full/Hu-Tao.png" alt="Hu-Tao"> -->
+                <div class="maininfo">
+                    <img src="/Images/Weapons/Icons/Spear.png" class = 'weapon' id = 'weapon' alt="">
+                    <div class="textinfo">
+                        <h1 class="charaname" id="name">Hu Tao</h1>
+                        <h2 class="charatitle" id = "title">Fragrance in Thaw</h2>
+                    </div>
+                    <div id="stars">
+                        <svg height="210" width="500">
+                            <polygon points="20,2 8,39.6 38,15.6 20,15.6 32,39.6"
+                            style="fill:gold;fill-rule:nonzero;" />
+                          </svg>
+                    </div>
+                </div>
+                
+                
+                <h3>Constellation: <p id="constellation"></p></h3>
+                
+                <div id="ascension"></div>
+                <div id="rarity"></div>
+
+            </div>
         </div>
-    </div>
+        
+    <script src="/Data/Pyro.json"></script>
+    <script src="/Data/Hydro.json"></script>
+    <script type='text/javascripit' src="/Data/Anemo.json"></script>
+    <script src="/Data/Electro.json"></script>
+    <script src="/Data/Cryo.json"></script>
+    <script src="/Data/Geo.json"></script>
+    
 
 
     <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
-    <script src="/Script.js"/>
+    <script src="/Script.js"></script>
+    <script src="/character.js"></script>
 
 </body>
 

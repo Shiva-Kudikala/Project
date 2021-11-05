@@ -4,7 +4,7 @@
         "element": "Cryo",
         "weapon": "Bow",
         "description": "",
-        "title": "",
+        "title": "Saviour from Another World",
         "ascension": "Cryo DMG Bonus",
         "rarity": "5-Star",
         "constellation": "Nora Fortis"
@@ -14,7 +14,7 @@
         "element": "Cryo",
         "weapon": "Claymore",
         "description": "",
-        "title": "",
+        "title": "Frozen Ardor",
         "ascension": "ATK",
         "rarity": "4-Star",
         "constellation": "Nubis Caesor"
@@ -24,7 +24,7 @@
         "element": "Cryo",
         "weapon": "Bow",
         "description": "",
-        "title": "",
+        "title": "Kätzlein Cocktail",
         "ascension": "Cryo DMG Bonus",
         "rarity": "4-Star",
         "constellation": "Feles"
@@ -34,7 +34,7 @@
         "element": "Cryo",
         "weapon": "Claymore",
         "description": "",
-        "title": "",
+        "title": "Dance of the Shimmering Wave",
         "ascension": "CRIT DMG",
         "rarity": "5-Star",
         "constellation": "Aphros Delos"
@@ -44,7 +44,7 @@
         "element": "Cryo",
         "weapon": "Bow",
         "description": "",
-        "title": "",
+        "title": "Plenilune Gaze",
         "ascension": "CRIT DMG",
         "rarity": "5-Star",
         "constellation": "Sinae Unicornis"
@@ -54,7 +54,7 @@
         "element": "Cryo",
         "weapon": "Sword",
         "description": "",
-        "title": "",
+        "title": "Frostwind Swordsman",
         "ascension": "Energy Recharge",
         "rarity": "4-Star",
         "constellation": "Pavo Ocellus"
@@ -64,7 +64,7 @@
         "element": "Cryo",
         "weapon": "Sword",
         "description": "",
-        "title": "",
+        "title": "Frostflake Heron",
         "ascension": "CRIT DMG",
         "rarity": "5-Star",
         "constellation": "Grus Nivis"
@@ -74,7 +74,7 @@
         "element": "Cryo",
         "weapon": "Sword",
         "description": "",
-        "title": "",
+        "title": "Icy Resurrection",
         "ascension": "Healing Bonus",
         "rarity": "5-Star",
         "constellation": "Pristina Nola"
@@ -84,7 +84,7 @@
         "element": "Cryo",
         "weapon": "Polearm",
         "description": "",
-        "title": "",
+        "title": "Thorny Benevolence",
         "ascension": "ATK",
         "rarity": "4-Star",
         "constellation": "Spinea Corona"

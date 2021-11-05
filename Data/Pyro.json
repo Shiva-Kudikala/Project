@@ -4,17 +4,17 @@
         "element": "Pyro",
         "weapon": "Bow",
         "description": "",
-        "title": "",
+        "title": "Gliding Champion",
         "ascension": "ATK",
         "rarity": "4-Star",
-        "constellation": "lepus"
+        "constellation": "Lepus"
     },
     {
         "name": "Bennett", 
         "element": "Pyro",
         "weapon": "Sword",
         "description": "",
-        "title": "",
+        "title": "Trial by Fire",
         "ascension": "Energy Recharge",
         "rarity": "4-Star",
         "constellation": "Rota Calamitas"
@@ -24,7 +24,7 @@
         "element": "Pyro",
         "weapon": "Claymore",
         "description": "",
-        "title": "",
+        "title": "The Dark Side of Dawn",
         "ascension": "CRIT Rate",
         "rarity": "5-Star",
         "constellation": "Noctua"
@@ -34,7 +34,7 @@
         "element": "Pyro",
         "weapon": "Polearm",
         "description": "",
-        "title": "",
+        "title": "Fragrance in Thaw",
         "ascension": "CRIT DMG",
         "rarity": "5-Star",
         "constellation": "Papilio Charontis"
@@ -44,7 +44,7 @@
         "element": "Pyro",
         "weapon": "Catalyst",
         "description": "",
-        "title": "",
+        "title": "Fleeing Sun Light",
         "ascension": "Pyro DMG Bonus",
         "rarity": "5-Star",
         "constellation": "Trifolium"
@@ -54,7 +54,7 @@
         "element": "Pyro",
         "weapon": "Claymore",
         "description": "",
-        "title": "",
+        "title": "Blazing Raff",
         "ascension": "ATK",
         "rarity": "4-Star",
         "constellation": "Fila Ignium"
@@ -64,7 +64,7 @@
         "element": "Pyro",
         "weapon": "Polearm",
         "description": "",
-        "title": "",
+        "title": "Protector from Afar",
         "ascension": "ATK",
         "rarity": "4-Star",
         "constellation": "Rubeum Scutum"
@@ -74,7 +74,7 @@
         "element": "Pyro",
         "weapon": "Polearm",
         "description": "",
-        "title": "",
+        "title": "Exquisite Delicacy",
         "ascension": "Elemental Mastery",
         "rarity": "4-Star",
         "constellation": "Trulla"
@@ -84,7 +84,7 @@
         "element": "Pyro",
         "weapon": "Catalyst",
         "description": "",
-        "title": "",
+        "title": "Wise Innocence",
         "ascension": "Pyro DMG Bonus",
         "rarity": "4-Star",
         "constellation": "Bestia Iustitia"
@@ -94,7 +94,7 @@
         "element": "Pyro",
         "weapon": "Bow",
         "description": "",
-        "title": "",
+        "title": "Frolicking Flames",
         "ascension": "CRIT Rate",
         "rarity": "5-Star",
         "constellation": "Carassius Auratus"

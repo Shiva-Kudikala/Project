@@ -4,7 +4,7 @@
         "element": "Geo",
         "weapon": "Sword",
         "description": "",
-        "title": "",
+        "title": "Kriedeprinz",
         "ascension": "Geo DMG Bonus",
         "rarity": "5-Star",
         "constellation": "Princeps Cretaceus"
@@ -14,17 +14,17 @@
         "element": "Geo",
         "weapon": "Polearm",
         "description": "",
-        "title": "",
+        "title": "Vago Mundo",
         "ascension": "Geo DMG Bonus",
         "rarity": "5-Star",
         "constellation": "Lapis Dei"
     },
     {
-        "name": "Ningguangg", 
+        "name": "Ningguang", 
         "element": "Geo",
         "weapon": "Catalyst",
         "description": "",
-        "title": "",
+        "title": "Eclipsing Star",
         "ascension": "Geo DMG Bonus",
         "rarity": "4-Star",
         "constellation": "Opus Aequilibrium"
@@ -34,7 +34,7 @@
         "element": "Geo",
         "weapon": "Claymore",
         "description": "",
-        "title": "",
+        "title": "Chivalaric Blossom",
         "ascension": "DEF",
         "rarity": "4-Star",
         "constellation": "Parma Cordis"

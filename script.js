@@ -157,4 +157,7 @@ function display(str)
     {
         div.style.backgroundImage = 'linear-gradient(rgb(0,160,160), rgb(40,190,190), rgb(60,220,220), rgb(40,190,190), rgb(0,160,160))';
     }
+
+    createObj(str);
 }
+
