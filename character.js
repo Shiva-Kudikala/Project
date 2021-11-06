@@ -71,8 +71,8 @@ function getThumbFile(name, element) {
 function getFullImage(name, element) {
     let l = name.length;
     name = name.replace(' ', '_');
-    name = 'Character_' + name + '_Portrait.png';
-    name = '/Images/' + element + '/Full/' + name;
+    name = 'Character_' + name + '_Wish_Cropped.png';
+    name = '/Images/' + element + '/Wish/' + name;
     console.log(name);
     return name;
 }
