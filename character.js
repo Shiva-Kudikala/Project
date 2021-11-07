@@ -34,6 +34,7 @@ function setData(name, elem) {
         });
         document.getElementById('title').textContent = cobj.title;
         document.getElementById('const').textContent = 'Constellation: ' + cobj.constellation;
+        
         // // document.getElementById('weapon').textContent = cobj.weapon;
         // document.getElementById('ascension').textContent = cobj.ascension;
         // document.getElementById('rarity').textContent = cobj.rarity;
