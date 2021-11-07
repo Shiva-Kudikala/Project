@@ -55,12 +55,13 @@ body {
     justify-items: flex-start;
     background-color: rgba(117, 38, 38, 0.5);
     /* width: 6.5vw; */
-    /* min-height: min-content; */
+    min-height: min-content;
     height: 100%;
     overflow-y: scroll;
     overflow-x: hidden;
     padding: 0 15px 0 15px;
-    /* position: relative;
+    /* z-index: 99999999;
+    position: absolute;
     z-index: 99; */
 }
 
@@ -89,7 +90,6 @@ body {
     /* background-color: #aa0000; */
     background-image: linear-gradient(#3a0000, #5a0000, #700000, #5a0000, #3a0000);
     z-index: -1;
-    position: relative;
 }
 
 .charaname {
