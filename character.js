@@ -98,4 +98,4 @@ function setEventListeners() {
 
 let scale = 1.25;
 
-let startext = '<svg height="' + (scale * 50) + '" width="' + (scale * 50) + '" class="star rating" data-rating="1"><polygon points="' + (19.8 * scale) + ',' + (2.2 * scale) + ',' + (6.6 * scale) +','+ (43.56 * scale) + ',' + (39.6 * scale)+','+ (17.16 * scale)+',' +  (0 * scale) + ',' + (17.16 * scale) +',' + (33 * scale) + ',' + (43.56 * scale) + '" style="fill-rule:nonzero; fill: #ffd055;"/></svg>'
+let startext = '<svg height="' + (scale * 50) + '" width="' + (scale * 50) + '" class="star rating" data-rating="1"><polygon points="' + (19.8 * scale) + ',' + (2.2 * scale) + ',' + (6.6 * scale) + ',' + (43.56 * scale) + ',' + (39.6 * scale) + ',' + (17.16 * scale) + ',' + (0 * scale) + ',' + (17.16 * scale) + ',' + (33 * scale) + ',' + (43.56 * scale) + '" style="fill-rule:nonzero; fill: #ffd055;"/></svg>'
