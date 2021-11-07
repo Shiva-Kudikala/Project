@@ -137,6 +137,7 @@ function display(str) {
         lbar.style.backgroundColor = 'rgba(117, 38, 38, 0.5)'
     } else if (str == 'Hydro') {
         div.style.backgroundImage = 'linear-gradient(rgb(0,50,120), rgb(0,70,180), rgb(0,100,200), rgb(0,70,180), rgb(0,50,120))';
+<<<<<<< Updated upstream
         lbar.style.backgroundColor = 'rgba(0, 30,100, 0.5)'
     } else if (str == 'Anemo') {
         div.style.backgroundImage = 'linear-gradient(rgb(0,160,160), rgb(40,190,190), rgb(60,220,220), rgb(40,190,190), rgb(0,160,160))';
@@ -150,6 +151,24 @@ function display(str) {
     } else if (str == 'Geo') {
         div.style.backgroundImage = 'linear-gradient(rgb(185,125,0), rgb(225,185,0), rgb(255,215,0), rgb(225,185,0), rgb(185,125,0))';
         lbar.style.backgroundColor = 'rgba(145,85,0, 0.5)'
+=======
+    }
+    else if(str == 'Anemo')
+    {
+        div.style.backgroundImage = 'linear-gradient(rgb(0,160,160), rgb(40,190,190), rgb(60,220,220), rgb(40,190,190), rgb(0,160,160))';
+    }
+    else if(str == 'Electro')
+    {
+        div.style.backgroundImage = 'linear-gradient(rgb(0,160,160), rgb(40,190,190), rgb(60,220,220), rgb(40,190,190), rgb(0,160,160))';
+    }
+    else if(str == 'Cryo')
+    {
+        div.style.backgroundImage = 'linear-gradient(rgb(0,160,160), rgb(40,190,190), rgb(60,220,220), rgb(40,190,190), rgb(0,160,160))';
+    }
+    else if(str == 'Geo')
+    {
+        div.style.backgroundImage = 'linear-gradient(#dfc118, #e0c734, #ecd65a, #e0c734, #dfc118)';
+>>>>>>> Stashed changes
     }
 
     createObj(str);
