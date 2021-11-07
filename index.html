@@ -15,17 +15,17 @@
 <body>
 
     <div class="index">
-        <img onclick="display('Pyro')" class="clickable" src="/Images/Element_Pyro.png" alt="Pyro">
-        <img onclick="display('Hydro')" class="clickable" src="/Images/Element_Hydro.png" alt="Hydro">
-        <img onclick="display('Anemo')" class="clickable" src="/Images/Element_Anemo.png" alt="Anemo">
-        <img onclick="display('Electro')" class="clickable" src="/Images/Element_Electro.png" alt="Electro">
-        <img onclick="display('Cryo')" class="clickable" src="/Images/Element_Cryo.png" alt="Cyro">
-        <img onclick="display('Geo')" class="clickable" src="/Images/Element_Geo.png" alt="Geo">
+        <img onclick="display('Pyro')" class="clickable hoverable odd" src="/Images/Element_Pyro.png" id = 'pyro-img' alt="Pyro">
+        <img onclick="display('Hydro')" class="clickable hoverable even" src="/Images/Element_Hydro.png" id = 'hydro-img' alt="Hydro">
+        <img onclick="display('Anemo')" class="clickable hoverable odd" src="/Images/Element_Anemo.png" id = 'anemo-img' alt="Anemo">
+        <img onclick="display('Electro')" class="clickable hoverable even" src="/Images/Element_Electro.png" id = 'electro-img' alt="Electro">
+        <img onclick="display('Cryo')" class="clickable hoverable odd" src="/Images/Element_Cryo.png" id = 'cryo-img' alt="Cryo">
+        <img onclick="display('Geo')" class="clickable hoverable even" src="/Images/Element_Geo.png" id = 'geo-img' alt="Geo">
 
-        <div class="downele">
+        <!-- <div class="downele">
             <div class="artifacts">Artifacts</div>
             <div class="weapons">Weapons</div>
-        </div>
+        </div> -->
 
     </div>
 
@@ -34,16 +34,7 @@
 
     <div class="flexdiv" id='bgdiv'>
         <div class="linebar" id="lbar">
-            <div class="hutao"></div>
-            <div class="diluc"></div>
-            <div class="amber"></div>
-            <div class="bennett"></div>
-            <div class="klee"></div>
-            <div class="thoma"></div>
-            <div class="xiangling"></div>
-            <div class="xinyan"></div>
-            <div class="yanfei"></div>
-            <div class="yoimiya"></div>
+
 
             <!-- <div class="imgtest"></div>
                 <div class="imgtest"></div> -->
@@ -53,26 +44,30 @@
         <div class="charadiv">
             <!-- <img style = "display: inline-block; position: relative; top: -250px; height: 96.7vh; right: -50%; filter: brightness(90%);" src="/Images/Pyro/Full/Hu-Tao.png" alt="Hu-Tao"> -->
             <div class="maininfo">
-                <img src="/Images/Weapons/Icons/Spear.png" class='weapon' id='weapon' alt="">
+                <img src="" class='weapon' id='weapon' alt="">
                 <div class="textinfo">
                     <h1 class="charaname" id="name">Hu Tao</h1>
                     <h2 class="charatitle" id="title">Fragrance in Thaw</h2>
+                    <div id="stars">
+                        <!-- <svg height="50" width="50" class="star rating" data-rating="1">
+                                    <polygon points="19.8, 2.2, 6.6, 43.56, 39.6, 17.16, 0, 17.16, 33, 43.56" style="fill-rule:nonzero; fill: #ffd055;"/>
+                            </svg> -->
+                    </div>
+                    <br>
+                    
                 </div>
-
+                
             </div>
+            <h2 class="const" id="const"><br></h2>
             <div class="imagediv" id='image'></div>
-            <div id="stars">
-                <!-- <svg height="50" width="50" class="star rating" data-rating="1">
-                            <polygon points="19.8, 2.2, 6.6, 43.56, 39.6, 17.16, 0, 17.16, 33, 43.56" style="fill-rule:nonzero; fill: #ffd055;"/>
-                    </svg> -->
-            </div>
+            
 
         </div>
     </div>
 
     <script src="/Data/Pyro.json"></script>
     <script src="/Data/Hydro.json"></script>
-    <script type='text/javascripit' src="/Data/Anemo.json"></script>
+    <script type='text/javascript' src="/Data/Anemo.json"></script>
     <script src="/Data/Electro.json"></script>
     <script src="/Data/Cryo.json"></script>
     <script src="/Data/Geo.json"></script>

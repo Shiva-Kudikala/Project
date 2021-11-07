@@ -1,3 +1,5 @@
+//setEventListeners();
+
 function createObj(fname) {
     let arr = "";
     let elem = fname;
@@ -31,7 +33,7 @@ function setData(name, elem) {
                 cobj = element;
         });
         document.getElementById('title').textContent = cobj.title;
-        // document.getElementById('constellation').textContent = cobj.constellation;
+        document.getElementById('const').textContent = 'Constellation: ' + cobj.constellation;
         // // document.getElementById('weapon').textContent = cobj.weapon;
         // document.getElementById('ascension').textContent = cobj.ascension;
         // document.getElementById('rarity').textContent = cobj.rarity;
@@ -77,4 +79,23 @@ function getFullImage(name, element) {
     return name;
 }
 
-let startext = '<svg height="50" width="50" class="star rating" data-rating="1"><polygon points="19.8, 2.2, 6.6, 43.56, 39.6, 17.16, 0, 17.16, 33, 43.56" style="fill-rule:nonzero; fill: #ffd055;"/></svg>'
+function setEventListeners() {
+    console.log("Here");
+    let arr = ['Anemo', 'Pyro', 'Geo', 'Cryo', 'Electro', 'Hydro']
+    arr.forEach(element => {
+        let cobj = document.getElementById(element.toLowerCase() + '-img');
+        console.log(element.toLowerCase() + '-img');
+        cobj.addEventListener("mouseover", () => {
+            cobj.style.transition = 'background-image 10s ease-in-out';
+            cobj.style.backgroundImage = 'radial-gradient(rgba(255, 255, 0, 1), rgba(0,255,255,0.1) 60%, rgba(255,0,0,0) 100%';
+        });
+        cobj.addEventListener("mouseout", () => {
+            cobj.style.backgroundImage = 'radial-gradient(rgba(255, 255, 0, 0), rgba(255,255,0,0)';
+        });
+    });
+}
+
+
+let scale = 1.25;
+
+let startext = '<svg height="' + (scale * 50) + '" width="' + (scale * 50) + '" class="star rating" data-rating="1"><polygon points="' + (19.8 * scale) + ',' + (2.2 * scale) + ',' + (6.6 * scale) +','+ (43.56 * scale) + ',' + (39.6 * scale)+','+ (17.16 * scale)+',' +  (0 * scale) + ',' + (17.16 * scale) +',' + (33 * scale) + ',' + (43.56 * scale) + '" style="fill-rule:nonzero; fill: #ffd055;"/></svg>'
