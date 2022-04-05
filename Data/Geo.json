@@ -6,6 +6,7 @@
         "title": "Kriedeprinz",
         "ascension": "Geo DMG Bonus",
         "rarity": "5",
+        "class": "Support",
         "constellation": "Princeps Cretaceus"
     },
     {
@@ -16,6 +17,7 @@
         "title": "Vago Mundo",
         "ascension": "Geo DMG Bonus",
         "rarity": "5",
+        "class": "Support",
         "constellation": "Lapis Dei"
     },
     {
@@ -26,6 +28,7 @@
         "title": "Eclipsing Star",
         "ascension": "Geo DMG Bonus",
         "rarity": "4",
+        "class": "DPS",
         "constellation": "Opus Aequilibrium"
     },
     {
@@ -36,6 +39,7 @@
         "title": "Chivalaric Blossom",
         "ascension": "DEF",
         "rarity": "4",
+        "class": "Healer/Support/DPS",
         "constellation": "Parma Cordis"
     }
 ]

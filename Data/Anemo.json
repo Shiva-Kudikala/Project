@@ -6,6 +6,7 @@
         "title": "Dandelion Knight",
         "ascension": "Healing Bonus",
         "rarity": "5",
+        "class": "Support/Healer",
         "constellation": "Leo Minor"
     },
     {
@@ -16,6 +17,7 @@
         "title": "Scarlet Leaves Pursue Wild Winds",
         "ascension": "Elemental Mastery",
         "rarity": "5",
+        "class": "Support",
         "constellation": "Acer Palmatum"
     },
     {
@@ -26,6 +28,7 @@
         "title": "Mujina Ninja",
         "ascension": "Elemental Mastery",
         "rarity": "4",
+        "class": "Support/Healer",
         "constellation": "Nyctereutes Minor"
     },
     {
@@ -36,6 +39,7 @@
         "title": "Harmless Sweety",
         "ascension": "Anemo DMG Bonus",
         "rarity": "4",
+        "class": "Support",
         "constellation": "Ampulla"
     },
     {
@@ -46,6 +50,7 @@
         "title": "Windborne Bard",
         "ascension": "Energy Recharge",
         "rarity": "5",
+        "class": "Support",
         "constellation": "Carmen Dei"
     },
     {
@@ -56,6 +61,7 @@
         "title": "Vigilant Yaksha",
         "ascension": "CRIT Rate",
         "rarity": "5",
+        "class": "DPS",
         "constellation": "Alatus Nemeseos"
     }
 ]

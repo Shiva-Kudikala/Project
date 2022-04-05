@@ -6,6 +6,7 @@
         "title": "Saviour from Another World",
         "ascension": "Cryo DMG Bonus",
         "rarity": "5",
+        "class": "DPS",
         "constellation": "Nora Fortis"
     },
     {
@@ -16,6 +17,7 @@
         "title": "Frozen Ardor",
         "ascension": "ATK",
         "rarity": "4",
+        "class": "Support",
         "constellation": "Nubis Caesor"
     },
     {
@@ -26,6 +28,7 @@
         "title": "Kätzlein Cocktail",
         "ascension": "Cryo DMG Bonus",
         "rarity": "4",
+        "class": "Healer/Support",
         "constellation": "Feles"
     },
     {
@@ -36,6 +39,7 @@
         "title": "Dance of the Shimmering Wave",
         "ascension": "CRIT DMG",
         "rarity": "5",
+        "class": "DPS",
         "constellation": "Aphros Delos"
     },
     {
@@ -46,6 +50,7 @@
         "title": "Plenilune Gaze",
         "ascension": "CRIT DMG",
         "rarity": "5",
+        "class": "DPS/Support",
         "constellation": "Sinae Unicornis"
     },
     {
@@ -56,6 +61,7 @@
         "title": "Frostwind Swordsman",
         "ascension": "Energy Recharge",
         "rarity": "4",
+        "class": "Sub-DPS/Support",
         "constellation": "Pavo Ocellus"
     },
     {
@@ -66,6 +72,7 @@
         "title": "Frostflake Heron",
         "ascension": "CRIT DMG",
         "rarity": "5",
+        "class": "DPS",
         "constellation": "Grus Nivis"
     },
     {
@@ -76,6 +83,7 @@
         "title": "Icy Resurrection",
         "ascension": "Healing Bonus",
         "rarity": "5",
+        "class": "Healer",
         "constellation": "Pristina Nola"
     },
     {
@@ -86,6 +94,7 @@
         "title": "Thorny Benevolence",
         "ascension": "ATK",
         "rarity": "4",
+        "class": "Support",
         "constellation": "Spinea Corona"
     }
 ]

@@ -6,6 +6,7 @@
         "title": "Gliding Champion",
         "ascension": "ATK",
         "rarity": "4",
+        "class": "Support",
         "constellation": "Lepus"
     },
     {
@@ -16,6 +17,7 @@
         "title": "Trial by Fire",
         "ascension": "Energy Recharge",
         "rarity": "4",
+        "class": "Healer/Support",
         "constellation": "Rota Calamitas"
     },
     {
@@ -26,6 +28,7 @@
         "title": "The Dark Side of Dawn",
         "ascension": "CRIT Rate",
         "rarity": "5",
+        "class": "DPS",
         "constellation": "Noctua"
     },
     {
@@ -36,6 +39,7 @@
         "title": "Fragrance in Thaw",
         "ascension": "CRIT DMG",
         "rarity": "5",
+        "class": "DPS",
         "constellation": "Papilio Charontis"
     },
     {
@@ -46,6 +50,7 @@
         "title": "Fleeing Sun Light",
         "ascension": "Pyro DMG Bonus",
         "rarity": "5",
+        "class": "DPS",
         "constellation": "Trifolium"
     },
     {
@@ -56,6 +61,7 @@
         "title": "Blazing Raff",
         "ascension": "ATK",
         "rarity": "4",
+        "class": "Support",
         "constellation": "Fila Ignium"
     },
     {
@@ -66,6 +72,7 @@
         "title": "Protector from Afar",
         "ascension": "ATK",
         "rarity": "4",
+        "class": "Support",
         "constellation": "Rubeum Scutum"
     },
     {
@@ -76,6 +83,7 @@
         "title": "Exquisite Delicacy",
         "ascension": "Elemental Mastery",
         "rarity": "4",
+        "class": "Burst DPS",
         "constellation": "Trulla"
     },
     {
@@ -86,6 +94,7 @@
         "title": "Wise Innocence",
         "ascension": "Pyro DMG Bonus",
         "rarity": "4",
+        "class": "DPS",
         "constellation": "Bestia Iustitia"
     },
     {
@@ -96,6 +105,7 @@
         "title": "Frolicking Flames",
         "ascension": "CRIT Rate",
         "rarity": "5",
+        "class": "DPS",
         "constellation": "Carassius Auratus"
     }
 ]

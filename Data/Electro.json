@@ -6,6 +6,7 @@
         "title": "Uncrowned Lord of the Ocean",
         "ascension": "Electro DMG Bonus",
         "rarity": "4",
+        "class": "Sub-DPS",
         "constellation": "Victor Mare"
     },
     {
@@ -16,6 +17,7 @@
         "title": "Prinzessin der Verurteilung",
         "ascension": "ATK",
         "rarity": "4",
+        "class": "Sub-DPS",
         "constellation": "Corvus"
     },
     {
@@ -26,6 +28,7 @@
         "title": "Crowfeather Kaburaya",
         "ascension": "ATK",
         "rarity": "4",
+        "class": "Support",
         "constellation": "Flabellum"
     },
     {
@@ -36,6 +39,7 @@
         "title": "Witch of Purple Rose",
         "ascension": "Elemental Mastery",
         "rarity": "4",
+        "class": "Support",
         "constellation": "Tempus Fugit"
     },
     {
@@ -46,6 +50,7 @@
         "title": "Wolf Boy",
         "ascension": "Physical DMG Bonus",
         "rarity": "4",
+        "class": "DPS",
         "constellation": "Lupus Minor"
     },
     {
@@ -56,6 +61,7 @@
         "title": "Driving Thunder",
         "ascension": "CRIT DMG",
         "rarity": "5",
+        "class": "DPS",
         "constellation": "Trulla Cementarii"
     },
     {
@@ -66,6 +72,7 @@
         "title": "Plane of Euthymia",
         "ascension": "Energy Recharge",
         "rarity": "5",
+        "class": "DPS/Sub-DPS/Support",
         "constellation": "Imperatrix Umbrosa"
     }
 ]

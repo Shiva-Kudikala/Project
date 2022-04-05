@@ -6,6 +6,7 @@
         "title": "Shining Idol",
         "ascension": "HP",
         "rarity": "4",
+        "class": "Healer",
         "constellation": "Crater"
     },
     {
@@ -16,6 +17,7 @@
         "title": "Astral Reflection",
         "ascension": "Energy Recharge",
         "rarity": "5",
+        "class": "Support",
         "constellation": "Astrolabos"
     },
     {
@@ -26,6 +28,7 @@
         "title": "Pearl of Wisdom",
         "ascension": "Hydro DMG Bonus",
         "rarity": "5",
+        "class": "Healer/DPS",
         "constellation": "Dracaena Somnolenta"
     },
     {
@@ -36,6 +39,7 @@
         "title": "Childe",
         "ascension": "Hydro DMG Bonus",
         "rarity": "5",
+        "class": "DPS/Enabler",
         "constellation": "Monoceros Caeli"
     },
     {
@@ -46,6 +50,7 @@
         "title": "Juvenile Galant",
         "ascension": "ATK",
         "rarity": "4",
+        "class": "Sub-DPS",
         "constellation": "Fabulae Textile"
     }
 ]
