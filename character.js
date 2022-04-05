@@ -36,6 +36,8 @@ function setData(name, elem) {
         document.getElementById('constdiv').style.backgroundImage = 'url("' + getConstellationImageName(name) + '")';
         document.getElementById('const').textContent = cobj.constellation;
         document.getElementById('description').textContent = cobj.description;
+        document.getElementById('type').textContent = cobj.class;
+        
 
         // // document.getElementById('weapon').textContent = cobj.weapon;
         // document.getElementById('ascension').textContent = cobj.ascension;

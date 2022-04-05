@@ -307,5 +307,16 @@ particle {
     font-size: 2vh;
     color: white;
     margin-left: 5vw;
+    margin-top: -15vh;
+    line-height: 1.75em;
+}
+
+.type{
+    font-weight: 100;
+    font-size: 3vh;
+    color: white;
+    margin-top: -1vh;
+    margin-left: 13vw;
+    /* margin-bottom: -35vh; */
     line-height: 1.75em;
 }
