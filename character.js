@@ -84,21 +84,21 @@ function getFullImage(name, element) {
     return name;
 }
 
-function setEventListeners() {
-    //console.log("Here");
-    let arr = ['Anemo', 'Pyro', 'Geo', 'Cryo', 'Electro', 'Hydro']
-    arr.forEach(element => {
-        let cobj = document.getElementById(element.toLowerCase() + '-img');
-        //console.log(element.toLowerCase() + '-img');
-        cobj.addEventListener("mouseover", () => {
-            cobj.style.transition = 'background-image 10s ease-in-out';
-            cobj.style.backgroundImage = 'radial-gradient(rgba(255, 255, 0, 1), rgba(0,255,255,0.1) 60%, rgba(255,0,0,0) 100%';
-        });
-        cobj.addEventListener("mouseout", () => {
-            cobj.style.backgroundImage = 'radial-gradient(rgba(255, 255, 0, 0), rgba(255,255,0,0)';
-        });
-    });
-}
+// function setEventListeners() {
+//     //console.log("Here");
+//     let arr = ['Anemo', 'Pyro', 'Geo', 'Cryo', 'Electro', 'Hydro']
+//     arr.forEach(element => {
+//         let cobj = document.getElementById(element.toLowerCase() + '-img');
+//         //console.log(element.toLowerCase() + '-img');
+//         cobj.addEventListener("mouseover", () => {
+//             cobj.style.transition = 'background-image 10s ease-in-out';
+//             cobj.style.backgroundImage = 'radial-gradient(rgba(255, 255, 0, 1), rgba(0,255,255,0.1) 60%, rgba(255,0,0,0) 100%';
+//         });
+//         cobj.addEventListener("mouseout", () => {
+//             cobj.style.backgroundImage = 'radial-gradient(rgba(255, 255, 0, 0), rgba(255,255,0,0)';
+//         });
+//     });
+// }
 
 function getConstellationImageName(name) {
     let updatedName = name;
