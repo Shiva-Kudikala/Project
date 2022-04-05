@@ -6,7 +6,7 @@ function createObj(fname) {
     fname = '/Data/' + fname + '.json';
     $.getJSON(fname, function(json) {
         arr = json[0].name;
-        console.log(arr);
+        // console.log(arr);
         let lbar = document.getElementById('lbar');
         while (lbar.firstChild)
             lbar.removeChild(lbar.firstChild);
@@ -67,7 +67,7 @@ function getThumbFile(name, element) {
     name = name.replace(' ', '_');
     name = 'Character_' + name + '_Thumb.png';
     name = '/Images/' + element + '/' + name;
-    console.log(name);
+    // console.log(name);
     return name;
 }
 
@@ -76,16 +76,16 @@ function getFullImage(name, element) {
     name = name.replace(' ', '_');
     name = 'Character_' + name + '_Wish_Cropped.png';
     name = '/Images/' + element + '/Wish/' + name;
-    console.log(name);
+    // console.log(name);
     return name;
 }
 
 function setEventListeners() {
-    console.log("Here");
+    //console.log("Here");
     let arr = ['Anemo', 'Pyro', 'Geo', 'Cryo', 'Electro', 'Hydro']
     arr.forEach(element => {
         let cobj = document.getElementById(element.toLowerCase() + '-img');
-        console.log(element.toLowerCase() + '-img');
+        //console.log(element.toLowerCase() + '-img');
         cobj.addEventListener("mouseover", () => {
             cobj.style.transition = 'background-image 10s ease-in-out';
             cobj.style.backgroundImage = 'radial-gradient(rgba(255, 255, 0, 1), rgba(0,255,255,0.1) 60%, rgba(255,0,0,0) 100%';

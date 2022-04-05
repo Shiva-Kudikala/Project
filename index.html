@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="/Style.css">
 
 
-    <title>Document</title>
+    <title>Genshin Impact</title>
 </head>
 
 <body>
@@ -24,19 +24,21 @@
         <img onclick="display('Cryo')" class="clickable hoverable odd" src="/Images/Element_Cryo.png" id='cryo-img' alt="Cryo">
         <img onclick="display('Geo')" class="clickable hoverable even" src="/Images/Element_Geo.png" id='geo-img' alt="Geo">
 
-        <!-- <div class="downele">
-            <div class="artifacts">Artifacts</div>
-            <div class="weapons">Weapons</div>
-        </div> -->
+        <div class="downele">
+                <img class="clickable" onclick="window.open('https://genshin.hoyoverse.com/en/download')" src="/Images/Weapons/Icons/Download.png" id="download-img" alt="download"> 
+                <img class="clickable" onclick="window.open('https://genshin.hoyoverse.com/en/home')" src="/Images/Weapons/Icons/Official.png" id="official-img" alt="official">
+
+            
+        </div>
 
     </div>
 
 
-
     <div id="particles-js"></div>
+    
     <div class="flexdiv" id='bgdiv'>
         <div class="linebar" id="lbar">
-
+            
 
             <!-- <div class="imgtest"></div>
                 <div class="imgtest"></div> -->
@@ -48,8 +50,8 @@
             <div class="maininfo">
                 <img src="" class='weapon' id='weapon' alt="">
                 <div class="textinfo">
-                    <h1 class="charaname" id="name">Hu Tao</h1>
-                    <h2 class="charatitle" id="title">Fragrance in Thaw</h2>
+                    <h1 class="charaname" id="name"></h1>
+                    <h2 class="charatitle" id="title"></h2>
                     <div id="stars">
                         <!-- <svg height="50" width="50" class="star rating" data-rating="1">
                                 <polygon points="19.8, 2.2, 6.6, 43.56, 39.6, 17.16, 0, 17.16, 33, 43.56" style="fill-rule:nonzero; fill: #ffd055;"/>
@@ -66,6 +68,7 @@
 
         </div>
     </div>
+    <div class="canvas"></div>
 
     <script src="/Data/Pyro.json"></script>
     <script src="/Data/Hydro.json"></script>
@@ -80,6 +83,8 @@
     <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
     <script src="/Script.js"></script>
     <script src="/character.js"></script>
+
+    <script src="/particle_test.js"></script>
 
 </body>
 
