@@ -106,7 +106,7 @@ function getConstellationImageName(name) {
         updatedName = name.split(' ')[1];
     }
 
-    return '/Images/Constellations/' + updatedName + '.png';
+    return '/Images/Constellations/' + updatedName.toLowerCase() + '.png';
 }
 
 let scale = 1.25;
