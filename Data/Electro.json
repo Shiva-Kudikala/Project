@@ -57,5 +57,15 @@
         "ascension": "CRIT DMG",
         "rarity": "5",
         "constellation": "Trulla Cementarii"
+    },
+    {
+        "name": "Raiden Shogun",
+        "element": "Electro",
+        "weapon": "Polearm",
+        "description": "",
+        "title": "Plane of Euthymia",
+        "ascension": "Energy Recharge",
+        "rarity": "5",
+        "constellation": "Imperatrix Umbrosa"
     }
 ]

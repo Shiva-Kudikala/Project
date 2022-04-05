@@ -33,8 +33,10 @@ function setData(name, elem) {
                 cobj = element;
         });
         document.getElementById('title').textContent = cobj.title;
-        document.getElementById('const').textContent = 'Constellation: ' + cobj.constellation;
-        
+        document.getElementById('constdiv').style.backgroundImage = 'url("' + getConstellationImageName(name) + '")';
+        document.getElementById('const').textContent = cobj.constellation;
+        document.getElementById('description').textContent = cobj.description;
+
         // // document.getElementById('weapon').textContent = cobj.weapon;
         // document.getElementById('ascension').textContent = cobj.ascension;
         // document.getElementById('rarity').textContent = cobj.rarity;
@@ -96,6 +98,14 @@ function setEventListeners() {
     });
 }
 
+function getConstellationImageName(name) {
+    let updatedName = name;
+    if (updatedName.includes(' ') && name != 'Hu Tao' && name != 'Raiden Shogun') {
+        updatedName = name.split(' ')[1];
+    }
+
+    return '/Images/Constellations/' + updatedName + '.png';
+}
 
 let scale = 1.25;
 
