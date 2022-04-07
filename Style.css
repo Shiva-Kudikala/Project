@@ -95,17 +95,18 @@ body {
 
 .charaname {
     /* font-family: 'Inter'; */
-    font-size: 4em;
+    font-size: 3.5em;
     color: #eecc99;
     font-weight: 100;
     margin: 15px;
+    margin-top: -5vh;
     opacity: 0;
     /* background-image: linear-gradient(rgb(6, 67, 160), rgb(13, 75, 175), rgb(0,100,200), rgb(13, 75, 175), rgb(6, 67, 160)) */
 }
 
 .charatitle {
     /* font-family: 'Inter', 'Helvetica', 'Roboto', 'Arial', sans-serif; */
-    font-size: 3em;
+    font-size: 2.5em;
     color: #fafafa;
     font-weight: 100;
     margin: 15px;
@@ -260,9 +261,9 @@ canvas {
 
 #const {
     color: white;
-    font-size: 4vh;
+    font-size: 3.5vh;
     font-weight: 100;
-    margin-left: 2.5vw;
+    margin-left: 2vw;
     grid-row: 2/2;
     grid-column: 1/1;
 }
@@ -311,7 +312,7 @@ particle {
     line-height: 1.75em;
 }
 
-.type{
+.type {
     font-weight: 100;
     font-size: 3vh;
     color: white;
